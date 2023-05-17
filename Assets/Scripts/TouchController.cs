@@ -76,7 +76,7 @@ public class TouchController : MonoBehaviour
         }
 
         float deltaX = (float)_lastMousePositionX - mousePositionX;
-        currentCube.MoveX(deltaX/30);
+        currentCube.MoveX(deltaX/120);
         _lastMousePositionX = mousePositionX;
     }
 }
