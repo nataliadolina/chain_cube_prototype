@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed6fd9d8c33965d45b0b9d2999fb3259, type: 3}
+  m_Name: New Cube Settings
+  m_EditorClassIdentifier: 
+  force: 50
+  jumpForce: 7
+  twoPowerColorMap:
+  - Key: 1
+    Value: {r: 0, g: 0.36792454, b: 1, a: 1}
+  - Key: 2
+    Value: {r: 1, g: 0.71748877, b: 0, a: 1}
+  - Key: 3
+    Value: {r: 1, g: 0, b: 0.90909094, a: 1}
+  - Key: 4
+    Value: {r: 1, g: 0.8655462, b: 0, a: 1}
+  - Key: 5
+    Value: {r: 0.696, g: 1, b: 0, a: 1}
+  - Key: 6
+    Value: {r: 0, g: 1, b: 0.66972476, a: 1}
+  - Key: 7
+    Value: {r: 0.7490494, g: 1, b: 0, a: 1}
+  - Key: 8
+    Value: {r: 1, g: 0, b: 0.97209305, a: 1}
+  - Key: 9
+    Value: {r: 1, g: 0, b: 0.4861111, a: 1}
+  - Key: 10
+    Value: {r: 0, g: 0.73333335, b: 1, a: 1}
+  - Key: 11
+    Value: {r: 1, g: 0.8514056, b: 0, a: 1}
+  - Key: 12
+    Value: {r: 0, g: 1, b: 0.99038464, a: 1}
+  - Key: 13
+    Value: {r: 0, g: 1, b: 0.88554215, a: 1}
